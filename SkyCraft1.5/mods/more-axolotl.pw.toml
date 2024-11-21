@@ -1,0 +1,13 @@
+name = "More Axolotl"
+filename = "more-axolotl-2.0.1-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ugNoKBqS/versions/aWIlILbl/more-axolotl-2.0.1-1.20.jar"
+hash-format = "sha512"
+hash = "fa01ceb1e658243efaa6756053eee74c83b60480764ee89bb9dae66eaf92753274fef5f3640cfb7d905f688d24d15c8bf97d46fc792b6be3bfc960a5e9aadcc9"
+
+[update]
+[update.modrinth]
+mod-id = "ugNoKBqS"
+version = "aWIlILbl"

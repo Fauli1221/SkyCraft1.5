@@ -1,0 +1,13 @@
+name = "Void Fog"
+filename = "Void-Fog-2.10.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JRC9aXm9/versions/cQa4Oduh/Void-Fog-2.10.0.jar"
+hash-format = "sha512"
+hash = "0ba59d430b77833ca3efcff58d7728868ceac6ee5aab9ac5a13b05aa6027890ec1dd0844ae70d33fbcf6582cce5c0d2b0a74485b5cd5b4c2b306d6a4bce8e5ed"
+
+[update]
+[update.modrinth]
+mod-id = "JRC9aXm9"
+version = "cQa4Oduh"

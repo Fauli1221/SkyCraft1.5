@@ -1,0 +1,13 @@
+name = "Expanded Storage"
+filename = "expandedstorage-10.3.0-beta.5+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jCCPlP3c/versions/l6RPIDLK/expandedstorage-10.3.0-beta.5%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "3814836caff4d181af654f3ca95557175b3bd105c7edfc1898eb031e1c1d657f34d02421e73e31a0600a7e7507c5b89289f2619d27c5bb4647ad4f2e71ccc4c4"
+
+[update]
+[update.modrinth]
+mod-id = "jCCPlP3c"
+version = "l6RPIDLK"

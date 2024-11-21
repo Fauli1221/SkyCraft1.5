@@ -1,0 +1,13 @@
+name = "XK's Decoration"
+filename = "XeKr's Decoration-1.20.1-Fabric-0.8.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XlwMlNhH/versions/6lPLN2Wr/XeKr%27s%20Decoration-1.20.1-Fabric-0.8.3.jar"
+hash-format = "sha512"
+hash = "60f4ebf79b03ede8c914fa6bc2fedfbd24268e5fb2bef430d2ab3b17e6b707e251156ef78bbfd50ef8e40a504fbe36a2771509275104f3994726867e6e5aa0e7"
+
+[update]
+[update.modrinth]
+mod-id = "XlwMlNhH"
+version = "6lPLN2Wr"

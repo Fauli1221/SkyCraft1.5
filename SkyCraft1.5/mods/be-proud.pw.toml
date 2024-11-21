@@ -1,0 +1,13 @@
+name = "Be Proud"
+filename = "beproud-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2qq6CN52/versions/a9ZITK1h/beproud-0.1.1.jar"
+hash-format = "sha512"
+hash = "d43da7a4ccf13a6f446d20b02551b8b1c89a525873d5e43e872b422bcb097b997ce033a271f7cd3435d7848d11d2ff27e2d45676e80b965408a7274cf497ee07"
+
+[update]
+[update.modrinth]
+mod-id = "2qq6CN52"
+version = "a9ZITK1h"

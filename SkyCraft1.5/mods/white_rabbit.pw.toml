@@ -1,0 +1,13 @@
+name = "White Rabbit"
+filename = "WhiteRabbit-1.1.3+1.14.4-1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YzTmv1hW/versions/GxQzB2Ab/WhiteRabbit-1.1.3%2B1.14.4-1.20.4.jar"
+hash-format = "sha512"
+hash = "9a5c7986eca6daa923f5adf13fce3a68891811f543c0e080e0f0aa2a39ca41e60a8c559b3809cae9dac2fbb4ec3c04998897919a51e0c1c54f707a009f17f68d"
+
+[update]
+[update.modrinth]
+mod-id = "YzTmv1hW"
+version = "GxQzB2Ab"

@@ -1,0 +1,13 @@
+name = "Factory Blocks"
+filename = "factory_blocks+fabric-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ht0eTMEs/versions/xgKGRaVb/factory_blocks%2Bfabric-1.3.1.jar"
+hash-format = "sha512"
+hash = "34965e84e3c401c7d1695ba393a22572547bb65545b387ba13ba3e1e38b52da99da7d2c15aeeb5efcecf368d9cdf1c2dfde84a159c40efcbbae20e3bb635d871"
+
+[update]
+[update.modrinth]
+mod-id = "ht0eTMEs"
+version = "xgKGRaVb"

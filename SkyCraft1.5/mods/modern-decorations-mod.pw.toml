@@ -1,0 +1,13 @@
+name = "Modern Decorations Mod"
+filename = "mdm-1.20.1-fabric-2.1.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TmUXSYKk/versions/pomOoZmo/mdm-1.20.1-fabric-2.1.11.jar"
+hash-format = "sha512"
+hash = "48f22940b67fb82675b6bee6e0784752e3d4fa1d4d5fbaaa683d8294a4fe6d4dd67f234e0b53e49d329f1202c2020cbc554ac674b6c36701d1d56172eda72fa7"
+
+[update]
+[update.modrinth]
+mod-id = "TmUXSYKk"
+version = "pomOoZmo"

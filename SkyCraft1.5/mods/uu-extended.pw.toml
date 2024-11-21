@@ -1,0 +1,13 @@
+name = "UU-Matter Extended"
+filename = "uuextended-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9CmO4HTO/versions/T5FEnAj9/uuextended-1.2.1.jar"
+hash-format = "sha512"
+hash = "7233c3204a9ed7fc7826bf56d9eb2975c3c2844eae6ff2c51d8884b98be0b6e9d5e64744044d51bf1e4019598b958da285dde758ee5f0bd137bc6dbc67eee05b"
+
+[update]
+[update.modrinth]
+mod-id = "9CmO4HTO"
+version = "T5FEnAj9"

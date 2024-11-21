@@ -1,0 +1,13 @@
+name = "Mine Little Pony -  Ponycraft's Lives & Tails!"
+filename = "LittlePonyComesAlive-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qUWlxCME/versions/sEaCwz7y/LittlePonyComesAlive-1.1.jar"
+hash-format = "sha512"
+hash = "e9e2d351a92c0f3ae3694434fdf78d142d8d6ca58f55dcbaaac474667ed8a24a7da630133780937039e52c9d3e6a3351205d6a62d566edc9eb315eb14dd0fc3e"
+
+[update]
+[update.modrinth]
+mod-id = "qUWlxCME"
+version = "sEaCwz7y"
