@@ -165,12 +165,12 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "925a58e077cfc6417f753e434530a78f156d14afa925d1e0898a2ab64ff1ce64"
+hash = "0743031d2dbaebdf7e3c18cd1ef493a40c8b48ce534342f48e4764c49ad9ff4f"
 metafile = true
 
 [[files]]
 file = "mods/ad_extendra-continuation.pw.toml"
-hash = "826f7f23a702b7d44326446ce583bfe1d5a6d6700095d187f646a71959374cee"
+hash = "3ab47fed1353708bb23788fa8164e5e4439c50c861edd470113ad717d36f827f"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "1968cd21c21d153156b039bce452f29cc239200f44c4b0655489eea65c781e73"
+hash = "51fc6770999b30492643e31053c99069fc0eee276ba6337dfc10e185a3681b8f"
 metafile = true
 
 [[files]]
@@ -256,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "d7dcbb9489b17fbe221d3a59ab2503293b219cee29d07a08aefbe32c5f3bf160"
+metafile = true
+
+[[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "a1512f24210215bd3c4206c47224db381db6972dcc6be129e579b795aacd7506"
 metafile = true
 
 [[files]]
@@ -479,6 +484,11 @@ hash = "8d436f2eee5122206d406c846a64fe6882c3bfa9477790d42249e471c150b74b"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ca5feb068fc80c2846b3782e3483d7a5646ff1e805d019dce4677e3040b5ed17"
+metafile = true
+
+[[files]]
 file = "mods/effective.pw.toml"
 hash = "77db2a79ccab8ea16987b981f0de7d6442f716217b83ebe9669f84006b07daf1"
 metafile = true
@@ -660,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "30a7f9070ca20a12623581eb9d9c0bbe90ef6333b4b9cda9fa86dd95ec1a35b8"
+hash = "1d7d3fd534ffae2521350fddde6d146a6fc8f767c82018f9bf536c16641ae759"
 metafile = true
 
 [[files]]
@@ -824,6 +834,11 @@ hash = "9e1c56a8c2709751dfe49e7afd3e7c827554143fce53cb4cb44c1126f0318acb"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
+metafile = true
+
+[[files]]
 file = "mods/mine-little-pony.pw.toml"
 hash = "4ac8ac63b72625219a0ea8260b1fbe1075cdcc1335a2a2f44d416a9e673bc16a"
 metafile = true
@@ -865,7 +880,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "2c06ee7dc714f27e599c6d383234b1a91b1b47ecfffb7505dbb5fb79d161c5de"
+hash = "535c99368a17ae01f3e58302692820e4ffa231a96e037106bc2efd28c903d924"
 metafile = true
 
 [[files]]
@@ -985,7 +1000,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "3107213a52ef2fb87e81db0a330f1a06665afde112a3482ba3747128c6e99aa3"
+hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
 metafile = true
 
 [[files]]
@@ -1001,6 +1016,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "d2dc9dfea0cc21063ccd2d3536d1caf26f4d71afa0c8fa812e416d271324f2e1"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
 
 [[files]]
@@ -1049,6 +1069,26 @@ hash = "e6463b6adb326fd6dc4d1d9ab1f76dbd4d931f7b30bc43d030a98e2cc65b0d3b"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "076ca2b418baa1ecfacca16e4f54be9114424298e559aa0ed54ccd7d98fbf71b"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "6b7e9ed619297a29eb6db95f860734144876aa68922de63a05409b65ad8bd163"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "f28af0e25c72e82bf751371bab80198559c42ffe07a252217edcfc23b31a5f4c"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "85d1d46ce862ad175082a0fd7839d497ba066c053630dbd159c223a0e4646a6c"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
 metafile = true
@@ -1080,7 +1120,7 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "85aceb4a63d3f9ad0fe7c74de592de7a31a1310fe15730acc37da7f382cf0b99"
+hash = "69f78eff752bb18f3751455a5432b7b1ebdd47a2823f917d3b712a36b499b9b9"
 metafile = true
 
 [[files]]
@@ -1100,7 +1140,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "5e67e96ab4d6c876dc26256b8025ab517d1f11e5b3909e194a7d9ce2826d7568"
+hash = "1f69300b3943f7049d8c37d9e0d0d3389e9364a1023e8c56e258df0d173ea98d"
 metafile = true
 
 [[files]]
@@ -1145,7 +1185,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeoutout.pw.toml"
-hash = "e7d7d775847e0dba0303056d4ad11ffda536b7851b443e5d5799afb23ecefa5f"
+hash = "da14f999b2190ff80c7662292c6e5c54024d99183256d93e9429e1722ec66dd0"
 metafile = true
 
 [[files]]
@@ -1181,6 +1221,11 @@ metafile = true
 [[files]]
 file = "mods/uu-extended.pw.toml"
 hash = "b1ddfc88ca24939f418a09a41d87773623f1ed09437e2723e4f29fac4eca0e39"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
 metafile = true
 
 [[files]]
