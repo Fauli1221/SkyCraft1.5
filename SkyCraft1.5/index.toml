@@ -1,151 +1,151 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/config/NoChatReports/NCR-Client.json"
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "547ab8638d23a570798766eda715653914d4fd34fd60317dbfeb62a3c51ba56f"
 
 [[files]]
-file = "config/config/NoChatReports/NCR-Common.json"
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
 hash = "4d945a5abd8801037b2f13352459054152d0a6b9cde735619103aa6a41a72f45"
 
 [[files]]
-file = "config/config/NoChatReports/NCR-Encryption.json"
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "707e9af170cd9c9282d25bfb5f1a337039348636183564cfa1a86ebde52f48df"
 
 [[files]]
-file = "config/config/bigpony.json"
+file = "config/yosbr/config/bigpony.json"
 hash = "d2e1b1ffb64e4c005f6032392d16ba9c73830f5d1a5ec949b778ebe0736ad714"
 
 [[files]]
-file = "config/config/bluemap/core.conf"
+file = "config/yosbr/config/bluemap/core.conf"
 hash = "d503b0b45470b4e80dadcb21966665abccc5f40a4a4293c69ca74da9de660470"
 
 [[files]]
-file = "config/config/bluemap/maps/end.conf"
+file = "config/yosbr/config/bluemap/maps/end.conf"
 hash = "5662c16cdf62c650a8fa1e58021cff210b4d56b80a740f898e1eb9b990ced839"
 
 [[files]]
-file = "config/config/bluemap/maps/nether.conf"
+file = "config/yosbr/config/bluemap/maps/nether.conf"
 hash = "8a4b0e4ce52aef139019ddb832db13062dec88e04a0074caae2f4b26fa001259"
 
 [[files]]
-file = "config/config/bluemap/maps/overworld.conf"
+file = "config/yosbr/config/bluemap/maps/overworld.conf"
 hash = "82cabe7b963d8e520688f1d2bda6d75bec06c7a02050b7697b903008c5b9666e"
 
 [[files]]
-file = "config/config/bluemap/maps/overworld_10.conf"
+file = "config/yosbr/config/bluemap/maps/overworld_10.conf"
 hash = "63428fed253d9539c88bd45d80f9b32335fe657ab4d1a3a75d33a47166d9983e"
 
 [[files]]
-file = "config/config/bluemap/maps/overworld_11.conf"
+file = "config/yosbr/config/bluemap/maps/overworld_11.conf"
 hash = "f265d2ff3623d14024148cf2ab1d87955f829f22305ac81fee749f2838622526"
 
 [[files]]
-file = "config/config/bluemap/maps/overworld_12.conf"
+file = "config/yosbr/config/bluemap/maps/overworld_12.conf"
 hash = "7ee859acdb0c9c5235ab6b8c9349710f0eeea63b7504957b4f2259ab8731cae3"
 
 [[files]]
-file = "config/config/bluemap/maps/overworld_13.conf"
+file = "config/yosbr/config/bluemap/maps/overworld_13.conf"
 hash = "870d39695759307f46ba66c0e361163eacaf11c7267dec7bb19c540ffb05f78c"
 
 [[files]]
-file = "config/config/bluemap/maps/overworld_14.conf"
+file = "config/yosbr/config/bluemap/maps/overworld_14.conf"
 hash = "1f2be16f5a52b9137cc6c2e4483cd6c3ea9165b65de157303483490e3178c9a6"
 
 [[files]]
-file = "config/config/bluemap/maps/overworld_15.conf"
+file = "config/yosbr/config/bluemap/maps/overworld_15.conf"
 hash = "1f6d783a7c0eb88e2864a6ddbd6dd5f76cf8845dc140fd5ec9002e3a304bdf9f"
 
 [[files]]
-file = "config/config/bluemap/maps/overworld_16.conf"
+file = "config/yosbr/config/bluemap/maps/overworld_16.conf"
 hash = "2a39c06732e13c06b151d89fa4860c090f280e5c0d5e8692b51f183a594f27d2"
 
 [[files]]
-file = "config/config/bluemap/maps/overworld_2.conf"
+file = "config/yosbr/config/bluemap/maps/overworld_2.conf"
 hash = "0ea9b8d44c24047f0e4027af634184e7a8dac8a0e013849e9047644c06c80f9f"
 
 [[files]]
-file = "config/config/bluemap/maps/overworld_3.conf"
+file = "config/yosbr/config/bluemap/maps/overworld_3.conf"
 hash = "65a12b0257b78c6be3e2c099d20653e4d295febf519fa4e44250472609b6e39b"
 
 [[files]]
-file = "config/config/bluemap/maps/overworld_4.conf"
+file = "config/yosbr/config/bluemap/maps/overworld_4.conf"
 hash = "b99be9529a10c2551c22b9e91d9f0ed18eff4d173f7e9bca87e7ef5093b2a956"
 
 [[files]]
-file = "config/config/bluemap/maps/overworld_5.conf"
+file = "config/yosbr/config/bluemap/maps/overworld_5.conf"
 hash = "88e7ea5bbbcaf9c6d69f7b116c628e20ff2f652a59607da8c903501f6b9131bf"
 
 [[files]]
-file = "config/config/bluemap/maps/overworld_6.conf"
+file = "config/yosbr/config/bluemap/maps/overworld_6.conf"
 hash = "c01aa604685a54ba0a15a1d515f12dda7e1369bb6921163634f43c35d3568233"
 
 [[files]]
-file = "config/config/bluemap/maps/overworld_7.conf"
+file = "config/yosbr/config/bluemap/maps/overworld_7.conf"
 hash = "8a20116fe73d0fb72b3bb8bf3addcbfd351d8ffce5107a167882e24a79f46423"
 
 [[files]]
-file = "config/config/bluemap/maps/overworld_8.conf"
+file = "config/yosbr/config/bluemap/maps/overworld_8.conf"
 hash = "f6cf6230358c65fbd2c694ff11ff9107259f55af85a4149e0fc0675eb632a2cd"
 
 [[files]]
-file = "config/config/bluemap/maps/overworld_9.conf"
+file = "config/yosbr/config/bluemap/maps/overworld_9.conf"
 hash = "3adcdebfa1d0683e90dcc2eb3bf7acfb8a9a9418c08a34291b89d4f300b0d823"
 
 [[files]]
-file = "config/config/bluemap/plugin.conf"
+file = "config/yosbr/config/bluemap/plugin.conf"
 hash = "526c17706d05ccff505ee369ea115a77dfec9ccddb10f9a5c3d7f2ed3ac5d948"
 
 [[files]]
-file = "config/config/bluemap/storages/file.conf"
+file = "config/yosbr/config/bluemap/storages/file.conf"
 hash = "bc22faeb151c936963e4f66e6f8e1a5cf4745b1c08f20e7b16ffb6b54a847aeb"
 
 [[files]]
-file = "config/config/bluemap/storages/sql.conf"
+file = "config/yosbr/config/bluemap/storages/sql.conf"
 hash = "e432cc1478308cd47177754911268c4119b14bc2775ff21194efda1001274fb7"
 
 [[files]]
-file = "config/config/bluemap/webapp.conf"
+file = "config/yosbr/config/bluemap/webapp.conf"
 hash = "56f2c15d2f4c752ff197035ed17866d8cf163ac390c1fe35a1f85d30c73d3002"
 
 [[files]]
-file = "config/config/bluemap/webserver.conf"
+file = "config/yosbr/config/bluemap/webserver.conf"
 hash = "ddf324792ac01b6f017f4b3d6535849fddd93cfee73687a9351e8a4fdb68d99c"
 
 [[files]]
-file = "config/config/dimdoors-config.json5"
+file = "config/yosbr/config/dimdoors-config.json5"
 hash = "53eebded55e48a011757613756b33a42020709ec645559b473f60e51d8daae8a"
 
 [[files]]
-file = "config/config/effective.json"
+file = "config/yosbr/config/effective.json"
 hash = "198985717c17fd0e82292798e5cea9033aabd2f02edba4b1e5838ef65e729d18"
 
 [[files]]
-file = "config/config/modmenu.json"
+file = "config/yosbr/config/modmenu.json"
 hash = "b2d6f97d6f09d3c02504264a778ab1958378c91e5d743afed9ab71846073bf60"
 
 [[files]]
-file = "config/config/openpartiesandclaims-server.toml"
+file = "config/yosbr/config/openpartiesandclaims-server.toml"
 hash = "0b261567a1ee7b600a43844316c97c86747697c30124a94c60ec99679894a58f"
 
 [[files]]
-file = "config/config/quilt_loading_screen.json"
+file = "config/yosbr/config/quilt_loading_screen.json"
 hash = "c02ce2fb5ac1bdf0c6bde4f2d8d0cada74de15cc06d34ca470699603a79f7bd1"
 
 [[files]]
-file = "config/config/styled-nicknames.json"
+file = "config/yosbr/config/styled-nicknames.json"
 hash = "b35b762964b545b3e5f9664111844fa562ddb992c0b662d91867dcd4743737bc"
 
 [[files]]
-file = "config/config/travelersbackpack.json5"
+file = "config/yosbr/config/travelersbackpack.json5"
 hash = "292c42a0f03c973481c6fb6f56a70f5ce7292d7c98ca5965b7085422a440bc33"
 
 [[files]]
-file = "config/config/universal-graves/config.json"
+file = "config/yosbr/config/universal-graves/config.json"
 hash = "0104253e1e871206b09f3ac2b715d7de023ffc3d6064f3ec635549746e27ffd2"
 
 [[files]]
-file = "config/options.txt"
+file = "config/yosbr/options.txt"
 hash = "c53a1fa6d631486b7df46819534c01dceb0dd9ebe88dd7fbd720ae21d993b805"
 
 [[files]]
@@ -1276,6 +1276,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "4e5e8e88792b8e320cf459b00b3f34e83af9732257d11b7bb3aaa411ef2e7f40"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
