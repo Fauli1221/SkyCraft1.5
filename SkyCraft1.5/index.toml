@@ -146,7 +146,7 @@ hash = "0104253e1e871206b09f3ac2b715d7de023ffc3d6064f3ec635549746e27ffd2"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c53a1fa6d631486b7df46819534c01dceb0dd9ebe88dd7fbd720ae21d993b805"
+hash = "b5cee2b0e3cc5d0ec241cba9aeda422479f005063a4dfd4fc2d6a401fa8b0389"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
