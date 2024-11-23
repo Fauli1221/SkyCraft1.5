@@ -1,0 +1,13 @@
+name = "Better P2P"
+filename = "betterp2p-1.4.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9DDxOvTJ/versions/d7FPTSZV/betterp2p-1.4.3-fabric.jar"
+hash-format = "sha512"
+hash = "ed713c9c87c5b6ad360189af219ccd94cd9b8b7644967f6b4306b2d8d077cc8c2bdfe0a0342d8dd35b755673ee22a15b95be7b1c54580abc85d82265fb9cb465"
+
+[update]
+[update.modrinth]
+mod-id = "9DDxOvTJ"
+version = "d7FPTSZV"

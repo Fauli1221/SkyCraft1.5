@@ -159,6 +159,11 @@ hash = "76e9141a89148bb8d65fadc66c71bef228f0a6250d2730f5a38ef32588730373"
 metafile = true
 
 [[files]]
+file = "mods/accurate-block-placement-reborn.pw.toml"
+hash = "3b87f6113f1304c82ad4efedbf049c239548be6e642acd63d82020504f5b0953"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "38964eeb7d05a62302c0608caf86a4ab55717f96f8dbab657c4a687bc8361bc1"
 metafile = true
@@ -249,13 +254,33 @@ hash = "bee459c3b3739a46717f04675ba175d8a5d26fc00a8683acd4ef5bdfb73a9066"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "a5a7f8f0a4253f63fcf723361ac001d3ae072030f680c9f2176ff4e7d90e8da0"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "d7dcbb9489b17fbe221d3a59ab2503293b219cee29d07a08aefbe32c5f3bf160"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "8f54b2270c2d87b56a73b4355305cc4a4dd277330cad97d137b98073ec0d8e83"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "6d7c5793f88c52421dc11f48b3bf12400e7a451b9297e80fe33b776cc2af2c1d"
+metafile = true
+
+[[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "a1512f24210215bd3c4206c47224db381db6972dcc6be129e579b795aacd7506"
+metafile = true
+
+[[files]]
+file = "mods/betterp2p.pw.toml"
+hash = "e1037e1d3ecbc710d835b310da50a484d85530e5c98faf35928559f87afbf155"
 metafile = true
 
 [[files]]
@@ -534,6 +559,11 @@ hash = "71d944c917bf1e4f0f6fac8c39f3b1038becaa039cdf3638982f4cdb58ef99b4"
 metafile = true
 
 [[files]]
+file = "mods/enchant-the-rainbow.pw.toml"
+hash = "361a8e66af214e711d4c2321c927ca8b6dde1ad27d694d6a8281a86c291f5915"
+metafile = true
+
+[[files]]
 file = "mods/endrem.pw.toml"
 hash = "34a07ff5c170cd95eb586e3e40e65636eb4bbf283c24762055db6094b91de494"
 metafile = true
@@ -741,6 +771,11 @@ metafile = true
 [[files]]
 file = "mods/lighty.pw.toml"
 hash = "6b986485b44e2007fc69334325f45ad1a4ad1d09d7f7814b1dbc443f171abbd1"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "470d30cd94b769b646f714432ba4cd01969910f6016957a6b218d2d2900d914c"
 metafile = true
 
 [[files]]
@@ -1076,6 +1111,11 @@ metafile = true
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "e6463b6adb326fd6dc4d1d9ab1f76dbd4d931f7b30bc43d030a98e2cc65b0d3b"
+metafile = true
+
+[[files]]
+file = "mods/smooth-skies.pw.toml"
+hash = "1598dd205de0948591eb17af819482ad9a27a8848eabeface61095fb1c85bd6f"
 metafile = true
 
 [[files]]
