@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "a1512f24210215bd3c4206c47224db381db6972dcc6be129e579b795aacd7506"
+hash = "86d288dacf282b4d5428b7ef449b56dfd7826615b63c3581592c917dcd8a5ee9"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "6ec1787d0fc9247eefa406a8b60688de61a00e8369affd80204e9eb26b190202"
+hash = "61fe0368e62d8926d1c7429532f74d22afc3e7044bee9385452095bd492976ef"
 metafile = true
 
 [[files]]
@@ -521,11 +521,6 @@ metafile = true
 [[files]]
 file = "mods/effective.pw.toml"
 hash = "77db2a79ccab8ea16987b981f0de7d6442f716217b83ebe9669f84006b07daf1"
-metafile = true
-
-[[files]]
-file = "mods/elytra-trims.pw.toml"
-hash = "730277ea82f283cbb7812857e13129b4c65359b5bd3e163d4461bf6749f06a35"
 metafile = true
 
 [[files]]
@@ -925,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "535c99368a17ae01f3e58302692820e4ffa231a96e037106bc2efd28c903d924"
+hash = "0ad670719a1c2449db1516a1925bbfe377f855f9367fa83036484090cd902158"
 metafile = true
 
 [[files]]
@@ -1185,12 +1180,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"
-hash = "5520f823b88c5276425f53f141a3e79c7896a1d22139243d229e61344df9ac0c"
+hash = "6beeb6ee9c6003b06e6d9ab5ab0aaf90f6fb32d3a791d72c932a04c189e6c05d"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "1f69300b3943f7049d8c37d9e0d0d3389e9364a1023e8c56e258df0d173ea98d"
+hash = "481c61790292ee785f7fe95cad50e18de3189edec609bf059958473aebbbe4b3"
 metafile = true
 
 [[files]]
