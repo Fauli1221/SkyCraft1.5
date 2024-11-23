@@ -224,11 +224,6 @@ hash = "bcea43f1396949332eb41ee3807dce173b9628f457d6d55594d993426c60b0f0"
 metafile = true
 
 [[files]]
-file = "mods/astrocraft.pw.toml"
-hash = "235da79d8d0831df81bf4930672f73bc2949526bcaac9f7a859b0bc72bdb4339"
-metafile = true
-
-[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "db0cf0e8fa916c1f982e0e3b84f3bed423b7f68e24446508e6dd4374d578fdab"
 metafile = true
