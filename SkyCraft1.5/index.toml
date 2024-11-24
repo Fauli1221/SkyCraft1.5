@@ -225,6 +225,10 @@ file = "config/yosbr/config/effective.json"
 hash = "198985717c17fd0e82292798e5cea9033aabd2f02edba4b1e5838ef65e729d18"
 
 [[files]]
+file = "config/yosbr/config/mca.json"
+hash = "f2a3e1426b19b4af23b0eb26666e9a9730ac8cd365503583050f93ae0ae6cbb4"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "b2d6f97d6f09d3c02504264a778ab1958378c91e5d743afed9ab71846073bf60"
 
@@ -239,6 +243,10 @@ hash = "e4bafd8d0cc07f7247a617420bb7e59a70eac7c690f8efad54f4cb0dfa2b81ba"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "b5cee2b0e3cc5d0ec241cba9aeda422479f005063a4dfd4fc2d6a401fa8b0389"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "06b14f80ea6c7163dec92cae42b6c5b452448be28e3e2ffbb1e1b981b53350a6"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
