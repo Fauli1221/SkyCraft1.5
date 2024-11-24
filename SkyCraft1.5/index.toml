@@ -1361,11 +1361,6 @@ hash = "b1ddfc88ca24939f418a09a41d87773623f1ed09437e2723e4f29fac4eca0e39"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "e2b365bfed470a8dc8441c63f23ef5d99bac4e6a09908671fe8fdce0879ee605"
-metafile = true
-
-[[files]]
 file = "mods/void-fog.pw.toml"
 hash = "9b68711b40e53b31e4cc16466805e70676f7d3ef37d6887038ccdc70b3476292"
 metafile = true
