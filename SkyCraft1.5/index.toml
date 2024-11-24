@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/Adorn.json5"
+hash = "8b3de8d4cf1d95c3a9a755724306ce87800e0a7585ea2be63b4ceaa98df92d35"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "547ab8638d23a570798766eda715653914d4fd34fd60317dbfeb62a3c51ba56f"
 
@@ -18,103 +22,203 @@ hash = "d2e1b1ffb64e4c005f6032392d16ba9c73830f5d1a5ec949b778ebe0736ad714"
 
 [[files]]
 file = "config/yosbr/config/bluemap/core.conf"
-hash = "d503b0b45470b4e80dadcb21966665abccc5f40a4a4293c69ca74da9de660470"
+hash = "89feaa9754e02d1be336e8488645ce0c6b0fba18f65367e603ec427581ad74c9"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/end.conf"
-hash = "5662c16cdf62c650a8fa1e58021cff210b4d56b80a740f898e1eb9b990ced839"
+file = "config/yosbr/config/bluemap/maps/world.conf"
+hash = "428efa1187afe65f29d630cf8cdd9c2f2faea5886e49f63bcdc1deed4d3b7d87"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/nether.conf"
-hash = "8a4b0e4ce52aef139019ddb832db13062dec88e04a0074caae2f4b26fa001259"
+file = "config/yosbr/config/bluemap/maps/world_ad_astra_earth_orbit.conf"
+hash = "6075aff028902ef263b35c78022dcd23018015a37141519d8039a388851f7676"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/overworld.conf"
-hash = "82cabe7b963d8e520688f1d2bda6d75bec06c7a02050b7697b903008c5b9666e"
+file = "config/yosbr/config/bluemap/maps/world_ad_astra_glacio.conf"
+hash = "d2513bae203d1aad10aeeb1ec51cd3f23cc45e8ddba27c1e75e6656b9667694a"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/overworld_10.conf"
-hash = "63428fed253d9539c88bd45d80f9b32335fe657ab4d1a3a75d33a47166d9983e"
+file = "config/yosbr/config/bluemap/maps/world_ad_astra_glacio_orbit.conf"
+hash = "18b587e502b2ea07eebc5342a1fd122d76786544baf1b6769f3e834423de1c1d"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/overworld_11.conf"
-hash = "f265d2ff3623d14024148cf2ab1d87955f829f22305ac81fee749f2838622526"
+file = "config/yosbr/config/bluemap/maps/world_ad_astra_mars.conf"
+hash = "7878b038b25faf666c03e59cd5b9893de558eeaca40ee100fd38edd533f7577a"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/overworld_12.conf"
-hash = "7ee859acdb0c9c5235ab6b8c9349710f0eeea63b7504957b4f2259ab8731cae3"
+file = "config/yosbr/config/bluemap/maps/world_ad_astra_mars_orbit.conf"
+hash = "9f73a2ce529fc000db35f6cc826d75f6fd2c21500e46b8d7a57dae095eb5d1ae"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/overworld_13.conf"
-hash = "870d39695759307f46ba66c0e361163eacaf11c7267dec7bb19c540ffb05f78c"
+file = "config/yosbr/config/bluemap/maps/world_ad_astra_mercury.conf"
+hash = "1517aff24f7a0d805ad62e38d1438e1249ac2bf757a731ceef7ffc68d4708a56"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/overworld_14.conf"
-hash = "1f2be16f5a52b9137cc6c2e4483cd6c3ea9165b65de157303483490e3178c9a6"
+file = "config/yosbr/config/bluemap/maps/world_ad_astra_mercury_orbit.conf"
+hash = "378f9dfa6208aa6df31709dda61abb838f72a9fef4a6424bb70d0e00be2abddf"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/overworld_15.conf"
-hash = "1f6d783a7c0eb88e2864a6ddbd6dd5f76cf8845dc140fd5ec9002e3a304bdf9f"
+file = "config/yosbr/config/bluemap/maps/world_ad_astra_moon.conf"
+hash = "e3e27eedc8bb776a7171975e107eee9dcd50cc872674550fec72fe874a353484"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/overworld_16.conf"
-hash = "2a39c06732e13c06b151d89fa4860c090f280e5c0d5e8692b51f183a594f27d2"
+file = "config/yosbr/config/bluemap/maps/world_ad_astra_moon_orbit.conf"
+hash = "399a40aaa17c2d7df4ef2ab5520151198f8c4dccf27d97d0db902dcf6de535d5"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/overworld_2.conf"
-hash = "0ea9b8d44c24047f0e4027af634184e7a8dac8a0e013849e9047644c06c80f9f"
+file = "config/yosbr/config/bluemap/maps/world_ad_astra_venus.conf"
+hash = "704a4244cebcc041e11c6322a35dce007810d0dae61db74b4c8851fccd1582f1"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/overworld_3.conf"
-hash = "65a12b0257b78c6be3e2c099d20653e4d295febf519fa4e44250472609b6e39b"
+file = "config/yosbr/config/bluemap/maps/world_ad_astra_venus_orbit.conf"
+hash = "f683fedaab4d60161d1690f62a110193aa69ab2af608c4901a23bc4f3f8e3cd7"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/overworld_4.conf"
-hash = "b99be9529a10c2551c22b9e91d9f0ed18eff4d173f7e9bca87e7ef5093b2a956"
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_b.conf"
+hash = "134a0ef8b00401c7c7f499eaf3627fccf95727105f60a0c8000f2e8f33ee82bd"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/overworld_5.conf"
-hash = "88e7ea5bbbcaf9c6d69f7b116c628e20ff2f652a59607da8c903501f6b9131bf"
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_b_orbit.conf"
+hash = "156dec58084476f0a0970b9878242d050da9d192659aa96f10ab0dff4c6fa7e1"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/overworld_6.conf"
-hash = "c01aa604685a54ba0a15a1d515f12dda7e1369bb6921163634f43c35d3568233"
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_ceres.conf"
+hash = "ff5788ae1aafcc2733a7a692dd3c64d681fd986bcd8568cdb7d1129d14939141"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/overworld_7.conf"
-hash = "8a20116fe73d0fb72b3bb8bf3addcbfd351d8ffce5107a167882e24a79f46423"
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_ceres_orbit.conf"
+hash = "ace81422ef9adbecc1fe2d9bfe4daa2c7c038d06fd460fb01ba788e4fe8acd64"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/overworld_8.conf"
-hash = "f6cf6230358c65fbd2c694ff11ff9107259f55af85a4149e0fc0675eb632a2cd"
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_eris.conf"
+hash = "8628fb1ac0c3b0916ed9b52cab20b4866f2afd60029cf64a221a4d2279e0ff23"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/overworld_9.conf"
-hash = "3adcdebfa1d0683e90dcc2eb3bf7acfb8a9a9418c08a34291b89d4f300b0d823"
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_eris_orbit.conf"
+hash = "14250ce48259ad34b7372d42a075558fa1291ede53b3b45ea028ea7348a44d37"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_gonggong.conf"
+hash = "470096c5fbe21d0b337291bc038a32f4547151b96746e3aacbd121d24bd0f7ba"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_gonggong_orbit.conf"
+hash = "6efd995ee03d38df79cb1a7b888078e21d0afb9c5f6ccc7497683b1a81d8de83"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_haumea.conf"
+hash = "de34a58e37bbb746c17cb59bb6a644d38d4dc76e5c1a7ec4b5506ee659cb475f"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_haumea_orbit.conf"
+hash = "1f0056f84337ffcb9ef1d69b70c4ec92dbcf5a2aa587f493e64ea0c5257052bd"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_jupiter.conf"
+hash = "d662bbe7057f2e64600c6ab3976c6b6b8cff8f0ccb900794113906f838ddd23d"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_jupiter_orbit.conf"
+hash = "308caa50861919d3906507e9e415fc8b64f8f3cf873377201c0861c3e326d2ea"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_makemake.conf"
+hash = "91bc8474f3b42273ed910e0b0b4e0feb9d7ce41e5864ccc404bc4afeb73863ee"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_makemake_orbit.conf"
+hash = "dac9b942b187d66acba4401f6df5640e926f67b9180f7c6371c0fb95da8611fd"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_neptune.conf"
+hash = "bda4113492068f470c8af8db9d15aaabd9f8f546deee82cda66fbc44ca199794"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_neptune_orbit.conf"
+hash = "a49aa1f2de8ea528ecb5ea0c94eca0d0308d05bcb5573c80111334eae76d148b"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_orcus.conf"
+hash = "ae1e97b8f8c961ea96601e1ed3828ecc38c55445ef978bf73152c153246a75dd"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_orcus_orbit.conf"
+hash = "5f04bd545ed8e09d5db5560358462dc4061f11bddfd66650d0026f192aa81ad5"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_pluto.conf"
+hash = "2c48e7470b3b354bc3e63ee24196244306529353e822317989abaf5d8cf62d31"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_pluto_orbit.conf"
+hash = "514b7e3dd53e21a48d6d23b6f288ddd969ec3ab746a56374b1f5b23ef94847da"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_quaoar.conf"
+hash = "328cc084b1ee832b83bd949400b88c545fe1cead544b8cb4250490aec98baec9"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_quaoar_orbit.conf"
+hash = "1a4585a21cc908ffeecbe353c19dfb8963b09905fc5a4f1eef882302395ae38f"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_saturn.conf"
+hash = "e6c6b94495357c04274a3f28a281d4cf6c0e335293a0c91ca3a4d25aea4ae985"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_saturn_orbit.conf"
+hash = "5498bd5c251d4b3eb70150f7e65c9c6baa5f48c3f908866ba203f9a6e05d8665"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_sedna.conf"
+hash = "291f786254b9fa519b7aa1dfeb30a3e9aa3f715198850823ab2738080c4b6632"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_sedna_orbit.conf"
+hash = "7fdb427a1da351efd213fc170cea70d8675c910a2dfe0b04c022ec763675ecbc"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_uranus.conf"
+hash = "023832919e770ce336423c6a118297aeede94f2ec22ad05bf9b03296d4933ca5"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ad_extendra_uranus_orbit.conf"
+hash = "c6e6ef8f611485a7a3b6c36ec09995ea0f18a28a469a1e3107a9d8daf67b7724"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_ae2_spatial_storage.conf"
+hash = "7985a5b073097ed03f433d15d1472f1e57db9b62c1c04c156f43f79c04947ec7"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_deeperdarker_otherside.conf"
+hash = "359938a3c6aea2ab76f3cded68d9a08365791c92f0531e745a3da3a9a4855f6d"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_the_end.conf"
+hash = "f769a546065c496f0d5a42c5f9fb2b0f2f77c2d05facffbdbd48532b6e1470cf"
+
+[[files]]
+file = "config/yosbr/config/bluemap/maps/world_the_nether.conf"
+hash = "f464e4aed97df977a22e19658f5eb1c75f605bb19166644c25d45bd1fb91c4af"
 
 [[files]]
 file = "config/yosbr/config/bluemap/plugin.conf"
-hash = "526c17706d05ccff505ee369ea115a77dfec9ccddb10f9a5c3d7f2ed3ac5d948"
+hash = "f4f9fc6a3ec27abe824b1aef445183f4c988c212724fb850c17ab489353c7b51"
 
 [[files]]
 file = "config/yosbr/config/bluemap/storages/file.conf"
-hash = "bc22faeb151c936963e4f66e6f8e1a5cf4745b1c08f20e7b16ffb6b54a847aeb"
+hash = "ce1f7419cb657755fcb3266817251951701119b95c8e34fb8fa0a1f6be8c7b17"
 
 [[files]]
 file = "config/yosbr/config/bluemap/storages/sql.conf"
-hash = "e432cc1478308cd47177754911268c4119b14bc2775ff21194efda1001274fb7"
+hash = "dbf122b4932a67e8b602ebe24d3278616522c24d2e9481f6c31c9949e75ed9f6"
 
 [[files]]
 file = "config/yosbr/config/bluemap/webapp.conf"
-hash = "56f2c15d2f4c752ff197035ed17866d8cf163ac390c1fe35a1f85d30c73d3002"
+hash = "eb7fbbf671c247286fd9d3c52a43142da7e65dfb53c08163e0742b2979f3ca24"
 
 [[files]]
 file = "config/yosbr/config/bluemap/webserver.conf"
-hash = "ddf324792ac01b6f017f4b3d6535849fddd93cfee73687a9351e8a4fdb68d99c"
-
-[[files]]
-file = "config/yosbr/config/dimdoors-config.json5"
-hash = "53eebded55e48a011757613756b33a42020709ec645559b473f60e51d8daae8a"
+hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
 
 [[files]]
 file = "config/yosbr/config/effective.json"
@@ -125,24 +229,12 @@ file = "config/yosbr/config/modmenu.json"
 hash = "b2d6f97d6f09d3c02504264a778ab1958378c91e5d743afed9ab71846073bf60"
 
 [[files]]
-file = "config/yosbr/config/openpartiesandclaims-server.toml"
-hash = "0b261567a1ee7b600a43844316c97c86747697c30124a94c60ec99679894a58f"
-
-[[files]]
-file = "config/yosbr/config/quilt_loading_screen.json"
-hash = "c02ce2fb5ac1bdf0c6bde4f2d8d0cada74de15cc06d34ca470699603a79f7bd1"
-
-[[files]]
-file = "config/yosbr/config/styled-nicknames.json"
-hash = "b35b762964b545b3e5f9664111844fa562ddb992c0b662d91867dcd4743737bc"
-
-[[files]]
 file = "config/yosbr/config/travelersbackpack.json5"
 hash = "292c42a0f03c973481c6fb6f56a70f5ce7292d7c98ca5965b7085422a440bc33"
 
 [[files]]
-file = "config/yosbr/config/universal-graves/config.json"
-hash = "0104253e1e871206b09f3ac2b715d7de023ffc3d6064f3ec635549746e27ffd2"
+file = "config/yosbr/config/white_rabbit/config.json"
+hash = "e4bafd8d0cc07f7247a617420bb7e59a70eac7c690f8efad54f4cb0dfa2b81ba"
 
 [[files]]
 file = "config/yosbr/options.txt"
