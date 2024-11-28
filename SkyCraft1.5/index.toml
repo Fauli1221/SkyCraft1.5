@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "48d7796c1cd92329b3be7a2720d57a48d22c07434d3a3be34ab412bb8618a4c5"
+hash = "732bc85d460b6399677e5b768318a0d6cc02822b9d005015ec4e16d9730e260a"
 metafile = true
 
 [[files]]
@@ -740,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "ca24bfcd5025839184bf79d63151d9cdafd5c4668a2c6fa3c034fca488e9bb7e"
+hash = "bb887fecd6205784b181e555c54a1ff3b7ab2e46609716294d1b1e5fd7b345b1"
 metafile = true
 
 [[files]]
@@ -820,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "711a328fad00fb0c7545b608559e2e53e5083228173d4d99ac15c647d58a12a4"
+hash = "36a2bb1e5126cfd8f54ec2022c0d2192f57538f3e85af1d591fd20be11a813eb"
 metafile = true
 
 [[files]]
@@ -1005,7 +1005,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0ad670719a1c2449db1516a1925bbfe377f855f9367fa83036484090cd902158"
+hash = "103caf4674b7e6dd8cd189c88bc2a261d135a073a4ebec132316fc14662bb7bc"
 metafile = true
 
 [[files]]
@@ -1030,7 +1030,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "ddc7f64463e97ecb1a86b85f207550154cc8eed17d242135374ce5f633dc3ae8"
+hash = "c79d083fbdce21a829e3f916eeda2ab86271feee178a932059c2fe64d9ddbeac"
 metafile = true
 
 [[files]]
@@ -1065,7 +1065,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "9af6a26192b56281177cece9c52871b532a2e2b93c4f8f32a71efd1b5af077ad"
+hash = "806c1f0bc853212112b6d25b955cd163d1e398500b25344b19f9debea2ad3487"
 metafile = true
 
 [[files]]
@@ -1210,7 +1210,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "f28af0e25c72e82bf751371bab80198559c42ffe07a252217edcfc23b31a5f4c"
+hash = "aea7d09e604eb052e6e3b06e46892893458da45a6e343df188d14dca959f43f3"
 metafile = true
 
 [[files]]
@@ -1270,7 +1270,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "481c61790292ee785f7fe95cad50e18de3189edec609bf059958473aebbbe4b3"
+hash = "4e8767147d197f0cdfe9e3f35b2ffa792a6cb45ba0de7146b91320bc44e59416"
 metafile = true
 
 [[files]]
@@ -1400,7 +1400,7 @@ metafile = true
 
 [[files]]
 file = "mods/xks-decoration.pw.toml"
-hash = "3a055c9ca13d75ee769a6702236104335e1045ec20b1e7cb6a9d79dbc9861776"
+hash = "ca098870740b0d02d55d4f7fb384db23c972daaa040d19e83251c79480d4186c"
 metafile = true
 
 [[files]]
