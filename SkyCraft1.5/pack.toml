@@ -1,12 +1,12 @@
 name = "SkyCraft1.5"
 author = "Sky Splash"
-version = "1.0.2"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "be818de038b86cdbb368e94af37fe8b7c0bbffab7ae42663747a128debc634b3"
+hash = "e187445749a4b177a6c0ab6c89cc2b90ccec0f65300ba6ce7c1998e788ff36be"
 
 [versions]
 fabric = "0.16.9"

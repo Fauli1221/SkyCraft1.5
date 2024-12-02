@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "0e1a8f1fcbdac5c228481ed7ec8103561712a8ffb7466d06b7c227c6aac16e54"
+
+[[files]]
 file = "config/yosbr/config/Adorn.json5"
 hash = "8b3de8d4cf1d95c3a9a755724306ce87800e0a7585ea2be63b4ceaa98df92d35"
 
@@ -415,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/botany-pots-tiers.pw.toml"
-hash = "164c9c02a86953631172703986a581b0fdabef2b80adf579229559d11c112f73"
+hash = "ca649c4e484ba0afbfd2757db1e3bfdf328875b1080839a7bed35e8243d5f08b"
 metafile = true
 
 [[files]]
@@ -535,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "965b3cc83e1bca99bd1b89ec5f94495d831fcf7d03317cb50891752b0ca7ddc0"
+hash = "a940269d83e13c7d68fbbad4be8122704ae317e3d794553406f1bee9560509b7"
 metafile = true
 
 [[files]]
@@ -550,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "afa19a7d3c8f5ddeece2ec238d662dcaae58f655adbd2956be5b82f512a016ed"
+hash = "e8b1c09912f9bb477bbaf0b1b970d0d47e941c59977be1f86f676a31b1bf9a21"
 metafile = true
 
 [[files]]
@@ -685,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 metafile = true
 
 [[files]]
@@ -1060,7 +1064,7 @@ metafile = true
 
 [[files]]
 file = "mods/numismatics.pw.toml"
-hash = "c114cf3e528339675168be824fc56a8d79fc61772b66c33e6446c2b78b135571"
+hash = "f6ba5240cebf5bc1079eedce1855a9898693ff24056b16dc0410440fed40f86d"
 metafile = true
 
 [[files]]
