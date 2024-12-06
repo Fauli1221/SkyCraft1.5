@@ -364,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "48111cf9b2e88a3098a15588b79bac119f435d5f4860beecb189ad3afc636283"
+hash = "da11bdadea1ddb399b766692bd6321d8dcefdc9d600f5f268e62c78b469a1485"
 metafile = true
 
 [[files]]
