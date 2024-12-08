@@ -474,6 +474,10 @@ file = "mods/dynamic-fps.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/early-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/effective.pw.toml"
 metafile = true
 
@@ -563,10 +567,6 @@ metafile = true
 
 [[files]]
 file = "mods/fish-of-thieves.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/forge-early-loading-screen-fabric.pw.toml"
 metafile = true
 
 [[files]]
