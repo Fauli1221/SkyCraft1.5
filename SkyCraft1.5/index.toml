@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "0e1a8f1fcbdac5c228481ed7ec8103561712a8ffb7466d06b7c227c6aac16e54"
+
+[[files]]
 file = "config/yosbr/config/Adorn.json5"
 hash = "8b3de8d4cf1d95c3a9a755724306ce87800e0a7585ea2be63b4ceaa98df92d35"
 
@@ -360,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "86d288dacf282b4d5428b7ef449b56dfd7826615b63c3581592c917dcd8a5ee9"
+hash = "da11bdadea1ddb399b766692bd6321d8dcefdc9d600f5f268e62c78b469a1485"
 metafile = true
 
 [[files]]
@@ -415,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/botany-pots-tiers.pw.toml"
-hash = "164c9c02a86953631172703986a581b0fdabef2b80adf579229559d11c112f73"
+hash = "ca649c4e484ba0afbfd2757db1e3bfdf328875b1080839a7bed35e8243d5f08b"
 metafile = true
 
 [[files]]
@@ -495,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "14a5af2b7faa6df33e76e7b704eaa398d78a6026c5c996bc5ea13ae02e5d6b74"
+hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
 
 [[files]]
@@ -535,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "965b3cc83e1bca99bd1b89ec5f94495d831fcf7d03317cb50891752b0ca7ddc0"
+hash = "bc8af5d5d2aae78e4df7bad058686b7aa357bc227ac6a6126df94d5592bae165"
 metafile = true
 
 [[files]]
@@ -550,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "afa19a7d3c8f5ddeece2ec238d662dcaae58f655adbd2956be5b82f512a016ed"
+hash = "f93b058ddd383738bb83cf93623f462ae7c40b0618fbe8fd37a221fe35cb93a8"
 metafile = true
 
 [[files]]
@@ -600,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "ca5feb068fc80c2846b3782e3483d7a5646ff1e805d019dce4677e3040b5ed17"
+hash = "8718c1de38f03334743dd2c041d50b8643387f8b4a70a12d9f542f5931825b0a"
 metafile = true
 
 [[files]]
@@ -685,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 metafile = true
 
 [[files]]
@@ -705,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "bb2bb541b9a8dabf1fe8e509adb2fb501ecf484f23e63812631debc0fb96187e"
+hash = "16de61b32acb724fc130debd459ffec5366d7a4fa428852aab26bf0d99ba2d97"
 metafile = true
 
 [[files]]
@@ -770,12 +774,12 @@ metafile = true
 
 [[files]]
 file = "mods/hephaestus.pw.toml"
-hash = "91c9f826f91a79126962578e39284f763b681e7d2dd50dd83d2323c3ef5f9c17"
+hash = "da53b078e3d222c72a3dc7f065cca1cad9772473a6be401f4e7098c0e7da6456"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2c6553f67c0d60f62afbcdd6c8fd8c48b803fc9bd2e280f3aeefa078414805d6"
+hash = "2e441b5e21e8db1cd9102216ce4b8d1a25d77a026182e00f6324aadda402f715"
 metafile = true
 
 [[files]]
@@ -800,7 +804,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
-hash = "254cf931c0da94dc08afde44489e7d79ef101e7e17d695a06d91a9a25d9bcb82"
+hash = "fd806713c4bd32080e12e65c012ad93de6a6fae53484fa13a72603c39f3eae63"
 metafile = true
 
 [[files]]
@@ -1060,7 +1064,7 @@ metafile = true
 
 [[files]]
 file = "mods/numismatics.pw.toml"
-hash = "c114cf3e528339675168be824fc56a8d79fc61772b66c33e6446c2b78b135571"
+hash = "c901bd455cdac9474755a894c39201d27fe8f87e3a3c16406afea950e068a476"
 metafile = true
 
 [[files]]
@@ -1405,7 +1409,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "4e5e8e88792b8e320cf459b00b3f34e83af9732257d11b7bb3aaa411ef2e7f40"
+hash = "88121fbabab3563f8dbb84a32347c753d23eec466c1df3225570cdb42e251029"
 metafile = true
 
 [[files]]

@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "overrides": {
+    "design_decor": { "depends": { } },
+    "moderntrainparts": { "depends": { } },
+    "create_aquatic_ambitions": { "depends": { } }
+  }
+}
