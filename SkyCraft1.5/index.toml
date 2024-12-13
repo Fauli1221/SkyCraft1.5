@@ -930,6 +930,10 @@ file = "mods/searchables.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/shield-banner-fix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 metafile = true
 
