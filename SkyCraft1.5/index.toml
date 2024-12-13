@@ -466,6 +466,10 @@ file = "mods/deeperdarker.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/derelict.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dusty-decorations.pw.toml"
 metafile = true
 
