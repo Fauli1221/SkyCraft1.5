@@ -1,7 +1,7 @@
-name = "wicked-paintings"
-filename = "wicked-paintings-1.4.1+1.20.1.jar"
+name = "Wicked-Paintings"
+filename = "wicked-paintings-1.4.2+1.20.1.jar"
 
 [download]
-url = "https://github.com/Sollace/WickedPaintings/releases/download/v1.4.1-1.20.1/wicked-paintings-1.4.1+1.20.1.jar"
+url = "https://github.com/Sollace/WickedPaintings/releases/download/v1.4.2-1.20.1/wicked-paintings-1.4.2+1.20.1.jar"
 hash-format = "sha256"
-hash = "86a5abf178313f97eb0cba971ebfbbe1c98d93b9e1926ebbfebec932cca1e992"
+hash = "7e54c77453833b37a085899cb955423181c37ddc9e6b18b927d14cbb3fc575e0"
