@@ -1,6 +1,7 @@
 name = "plushiez"
 filename = "plushiez v1.5.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/sTMY3k2M/versions/GupjDYCC/plushiez%20v1.5.1.jar"

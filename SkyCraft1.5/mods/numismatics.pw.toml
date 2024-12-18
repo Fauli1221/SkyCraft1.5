@@ -1,13 +1,13 @@
 name = "Create: Numismatics"
-filename = "CreateNumismatics-1.0.9+fabric-mc1.20.1.jar"
+filename = "CreateNumismatics-1.0.10+fabric-mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Jdbbtt0i/versions/mH9C6MFx/CreateNumismatics-1.0.9%2Bfabric-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/Jdbbtt0i/versions/TYxoB2MX/CreateNumismatics-1.0.10%2Bfabric-mc1.20.1.jar"
 hash-format = "sha512"
-hash = "c433f0d0f3e038b45535b42b76ffbf0e3ff60f389ad2fe95b5332bf684a50c6f7b0ec1bfe46b2fb484b46c637a8c7e0a7436589beea46659349fc9b6c718b80c"
+hash = "b5dc8ff2b72bf3ee65e98e9ad95e1313e4ad5213194587ede87f037e7c08a64c5dddd631436c72e5cdf4e7f643fcf0ffc0a7046490f0a45786cc143048ac3a2b"
 
 [update]
 [update.modrinth]
 mod-id = "Jdbbtt0i"
-version = "mH9C6MFx"
+version = "TYxoB2MX"

@@ -1,0 +1,13 @@
+name = "Shield Banner Fix"
+filename = "ShieldBannerFix-Fabric-1.20.1-5.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XTAy8Fqs/versions/ZtKsBnbh/ShieldBannerFix-Fabric-1.20.1-5.0.1.jar"
+hash-format = "sha512"
+hash = "f163f87ad5c9e19494e02ce6fac394356327bb63614c2efb0282fbac57887f4e6da28eb230096e44c60332da56d1fbf0264bea82fe6d121e39e5fcb0c10db73a"
+
+[update]
+[update.modrinth]
+mod-id = "XTAy8Fqs"
+version = "ZtKsBnbh"
