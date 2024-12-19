@@ -238,6 +238,10 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/arsenal.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 metafile = true
 
@@ -507,6 +511,10 @@ metafile = true
 
 [[files]]
 file = "mods/emitrades.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enchancement.pw.toml"
 metafile = true
 
 [[files]]
@@ -902,6 +910,10 @@ file = "mods/presence-footsteps.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ratatouille.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/reborncore.pw.toml"
 metafile = true
 
@@ -1063,6 +1075,10 @@ metafile = true
 
 [[files]]
 file = "mods/too-many-paintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
 metafile = true
 
 [[files]]
