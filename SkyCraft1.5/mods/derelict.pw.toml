@@ -1,13 +1,14 @@
 name = "Mim1q's Derelict"
-filename = "derelict-2.0.0.jar"
+filename = "derelict-1.1.1.jar"
 side = "both"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/FOY0uIwP/versions/4btSW1Mt/derelict-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/FOY0uIwP/versions/EGejxoq2/derelict-1.1.1.jar"
 hash-format = "sha512"
-hash = "91cd558e57e88a10f116305fde80a23d6e218ded5935811f87ce5253f5c74fd8d2c4245bcb773bebf4f399bc93d1f49e83044792a3cb260deb28601524a4e2d9"
+hash = "ee29299dbad8970dcc8830903c23213e1800be1300b6df8be15cf8608f0a791d9280c657e8078edcba314a7f5bba8b249227c6ad70bf7fafd9f6880c742d0ef9"
 
 [update]
 [update.modrinth]
 mod-id = "FOY0uIwP"
-version = "4btSW1Mt"
+version = "EGejxoq2"
