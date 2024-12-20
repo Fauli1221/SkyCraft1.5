@@ -1118,10 +1118,6 @@ file = "mods/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/xks-decoration.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 metafile = true
 
