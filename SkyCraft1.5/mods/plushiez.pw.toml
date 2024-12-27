@@ -1,14 +1,13 @@
 name = "plushiez"
-filename = "plushiez v1.5.1.jar"
+filename = "plushiez-2.0.2.jar"
 side = "both"
-pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/sTMY3k2M/versions/GupjDYCC/plushiez%20v1.5.1.jar"
+url = "https://cdn.modrinth.com/data/sTMY3k2M/versions/WmgTczuJ/plushiez-2.0.2.jar"
 hash-format = "sha512"
-hash = "1b9309a3a7bf1154ec3a4f9df56ac45670c5135d478cb68edbf36b735d8efb3f3ea3f146dac4ac663bd449e104c4f796ed2732940e5324b47a9ba863959a3e14"
+hash = "20c06dc5800ed685f1c70eec50136ee709c0ae26903d98d35e5c0a8e4ea4f15ceb67ce8541c008d2a69bb08e7cda22524b34cc66412edb534df4109c3602cddf"
 
 [update]
 [update.modrinth]
 mod-id = "sTMY3k2M"
-version = "GupjDYCC"
+version = "WmgTczuJ"
