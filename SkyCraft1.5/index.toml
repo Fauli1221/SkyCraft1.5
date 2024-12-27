@@ -172,6 +172,9 @@ file = "config/yosbr/config/bluemap/webserver.conf"
 file = "config/yosbr/config/effective.json"
 
 [[files]]
+file = "config/yosbr/config/enchancement.json"
+
+[[files]]
 file = "config/yosbr/config/mca.json"
 
 [[files]]
@@ -527,10 +530,6 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/eureka.pw.toml"
 metafile = true
 
 [[files]]
@@ -1111,10 +1110,6 @@ metafile = true
 
 [[files]]
 file = "mods/uu-extended.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
 metafile = true
 
 [[files]]
