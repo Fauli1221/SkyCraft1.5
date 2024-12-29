@@ -1,14 +1,11 @@
 {
   "disallowedEnchantments": [
-    "minecraft:aqua_affinity",
     "minecraft:bane_of_arthropods",
     "minecraft:binding_curse",
     "minecraft:blast_protection",
-    "minecraft:depth_strider",
     "minecraft:feather_falling",
     "minecraft:fire_protection",
     "minecraft:flame",
-    "minecraft:fortune",
     "minecraft:frost_walker",
     "minecraft:impaling",
     "minecraft:infinity",
