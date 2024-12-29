@@ -1,0 +1,4 @@
+# Ignore temp files from known editors
+*.swp
+# Ignore PackWiz build artifacts
+*.mrpack

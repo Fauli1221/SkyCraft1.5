@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/enchancement.json"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 
 [[files]]
