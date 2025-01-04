@@ -452,6 +452,10 @@ file = "mods/createaddition.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 metafile = true
 
@@ -1117,6 +1121,14 @@ metafile = true
 
 [[files]]
 file = "mods/void-fog.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
 metafile = true
 
 [[files]]
