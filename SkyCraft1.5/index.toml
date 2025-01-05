@@ -196,6 +196,14 @@ file = "config/yosbr/options.txt"
 file = "config/yosbr/servers.dat"
 
 [[files]]
+file = "datapacks/botany-pots-extras-le.pw.toml"
+metafile = true
+
+[[files]]
+file = "datapacks/unicopia-comppack.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 metafile = true
 
@@ -461,6 +469,10 @@ metafile = true
 
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dataloader.pw.toml"
 metafile = true
 
 [[files]]
