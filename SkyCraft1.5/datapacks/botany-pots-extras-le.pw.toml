@@ -1,0 +1,13 @@
+name = "Botany Pots Extras"
+filename = "botany-pots-extras.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KFFVRgZW/versions/KD4JTQP0/botany-pots-extras.zip"
+hash-format = "sha512"
+hash = "535a9f4843e80ad9dd735fc954c9d7d69eaf4016be4377dcbc7e7cc1c4aaf1ec20bfa5a8f65d2847e29fb9c2381381a3bc5f312123490d119e2f37537cd43d94"
+
+[update]
+[update.modrinth]
+mod-id = "KFFVRgZW"
+version = "KD4JTQP0"

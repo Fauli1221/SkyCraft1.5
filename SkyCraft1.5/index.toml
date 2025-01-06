@@ -1,10 +1,172 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bluemap/core.conf"
+
+[[files]]
+file = "config/bluemap/maps/paradise_lost.conf"
+
+[[files]]
+file = "config/bluemap/maps/twilight_forest.conf"
+
+[[files]]
+file = "config/bluemap/maps/world.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_earth_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_glacio.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_glacio_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_mars.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_mars_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_mercury.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_mercury_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_moon.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_moon_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_venus.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_venus_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_b.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_b_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_ceres.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_ceres_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_eris.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_eris_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_gonggong.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_gonggong_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_haumea.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_haumea_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_jupiter.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_jupiter_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_makemake.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_makemake_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_neptune.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_neptune_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_orcus.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_orcus_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_pluto.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_pluto_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_quaoar.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_quaoar_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_saturn.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_saturn_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_sedna.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_sedna_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_uranus.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_extendra_uranus_orbit.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_ae2_spatial_storage.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_deeperdarker_otherside.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_the_end.conf"
+
+[[files]]
+file = "config/bluemap/maps/world_the_nether.conf"
+
+[[files]]
+file = "config/bluemap/plugin.conf"
+
+[[files]]
+file = "config/bluemap/storages/file.conf"
+
+[[files]]
+file = "config/bluemap/storages/sql.conf"
+
+[[files]]
+file = "config/bluemap/webapp.conf"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+
+[[files]]
 file = "config/enchancement.json"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
+
+[[files]]
+file = "config/mca.json"
+
+[[files]]
+file = "config/white_rabbit/config.json"
 
 [[files]]
 file = "config/yosbr/config/Adorn.json5"
@@ -22,163 +184,7 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 file = "config/yosbr/config/bigpony.json"
 
 [[files]]
-file = "config/yosbr/config/bluemap/core.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_astra_earth_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_astra_glacio.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_astra_glacio_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_astra_mars.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_astra_mars_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_astra_mercury.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_astra_mercury_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_astra_moon.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_astra_moon_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_astra_venus.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_astra_venus_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_b.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_b_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_ceres.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_ceres_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_eris.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_eris_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_gonggong.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_gonggong_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_haumea.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_haumea_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_jupiter.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_jupiter_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_makemake.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_makemake_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_neptune.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_neptune_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_orcus.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_orcus_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_pluto.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_pluto_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_quaoar.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_quaoar_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_saturn.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_saturn_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_sedna.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_sedna_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_uranus.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ad_extendra_uranus_orbit.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_ae2_spatial_storage.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_deeperdarker_otherside.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_the_end.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/maps/world_the_nether.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/plugin.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/storages/file.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/storages/sql.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/webapp.conf"
-
-[[files]]
-file = "config/yosbr/config/bluemap/webserver.conf"
-
-[[files]]
 file = "config/yosbr/config/effective.json"
-
-[[files]]
-file = "config/yosbr/config/enchancement.json"
-
-[[files]]
-file = "config/yosbr/config/mca.json"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -187,13 +193,21 @@ file = "config/yosbr/config/modmenu.json"
 file = "config/yosbr/config/travelersbackpack.json5"
 
 [[files]]
-file = "config/yosbr/config/white_rabbit/config.json"
-
-[[files]]
 file = "config/yosbr/options.txt"
 
 [[files]]
 file = "config/yosbr/servers.dat"
+
+[[files]]
+file = "datapacks/botany-pots-extras-le.pw.toml"
+metafile = true
+
+[[files]]
+file = "datapacks/mod-commons.zip"
+
+[[files]]
+file = "datapacks/unicopia-comppack.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
@@ -452,11 +466,19 @@ file = "mods/createaddition.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dataloader.pw.toml"
 metafile = true
 
 [[files]]
@@ -784,6 +806,10 @@ file = "mods/memoryleakfix.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/midas-hunger.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mine-little-pony.pw.toml"
 metafile = true
 
@@ -877,6 +903,10 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/paradise-lost.pw.toml"
 metafile = true
 
 [[files]]
@@ -1069,6 +1099,10 @@ metafile = true
 
 [[files]]
 file = "mods/the-lost-castle.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest-unofficial.pw.toml"
 metafile = true
 
 [[files]]

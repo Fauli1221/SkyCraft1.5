@@ -1,0 +1,13 @@
+name = "Unicopia Compatibility Datapack"
+filename = "unicopia.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MWppQKB6/versions/1ouy84tS/unicopia.zip"
+hash-format = "sha512"
+hash = "8000556604a219086145abb855a7a667e187c7b4860747f422a3d8f738368bbfcce1641974eb62de19186bbab8ae220826b26fb1d337e95c31365b1a67d6721a"
+
+[update]
+[update.modrinth]
+mod-id = "MWppQKB6"
+version = "1ouy84tS"
