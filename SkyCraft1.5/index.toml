@@ -1136,14 +1136,6 @@ file = "mods/void-fog.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/waterframes.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/watermedia.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 metafile = true
 
