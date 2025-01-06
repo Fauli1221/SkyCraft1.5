@@ -1,0 +1,13 @@
+name = "Midas Hunger"
+filename = "midas-hunger-2.2.3+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/abF2tqnb/versions/AolceQhX/midas-hunger-2.2.3%2B1.20.jar"
+hash-format = "sha512"
+hash = "fb3358a80949321204eb20c2d30878a28e607bf9832de4c3808306c6c09f8d9432b8b51bf882baea1a3c97b86a845939c6748982a1739bf2551e68dde775d8f7"
+
+[update]
+[update.modrinth]
+mod-id = "abF2tqnb"
+version = "AolceQhX"

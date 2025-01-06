@@ -800,6 +800,10 @@ file = "mods/memoryleakfix.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/midas-hunger.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mine-little-pony.pw.toml"
 metafile = true
 
@@ -1085,6 +1089,10 @@ metafile = true
 
 [[files]]
 file = "mods/the-lost-castle.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest-unofficial.pw.toml"
 metafile = true
 
 [[files]]
