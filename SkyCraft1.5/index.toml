@@ -900,6 +900,10 @@ file = "mods/packet-fixer.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/paradise-lost.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 metafile = true
 
