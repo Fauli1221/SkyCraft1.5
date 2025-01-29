@@ -157,7 +157,10 @@ file = "config/bluemap/webapp.conf"
 file = "config/bluemap/webserver.conf"
 
 [[files]]
-file = "config/configurabledatafixers.json5"
+file = "config/configurable_everything/datafixer.djs"
+
+[[files]]
+file = "config/configurable_everything/world.djs"
 
 [[files]]
 file = "config/enchancement.json"
@@ -413,7 +416,7 @@ file = "mods/collective.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/configurable-data-fixers.pw.toml"
+file = "mods/configurable-everything.pw.toml"
 metafile = true
 
 [[files]]

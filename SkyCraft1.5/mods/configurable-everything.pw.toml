@@ -1,0 +1,13 @@
+name = "Configurable Everything"
+filename = "ConfigurableEverything-1.2-mc1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/2OtUT3F2/versions/b2VzCVta/ConfigurableEverything-1.2-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "af32190cc422329e0ac98f53fe4ac6d70df765d0354d691aeee577b53eb720ab272163fc5d3de1e4c109b5b77dc2cfae333f8af8d46b0a4f4bfb12c1480a9960"
+
+[update]
+[update.modrinth]
+mod-id = "2OtUT3F2"
+version = "b2VzCVta"
