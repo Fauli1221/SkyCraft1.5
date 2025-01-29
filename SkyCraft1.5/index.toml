@@ -160,7 +160,7 @@ file = "config/bluemap/webserver.conf"
 file = "config/configurable_everything/datafixer.djs"
 
 [[files]]
-file = "config/configurable_everything/world.djs"
+file = "config/configurable_everything/main.djs"
 
 [[files]]
 file = "config/enchancement.json"
