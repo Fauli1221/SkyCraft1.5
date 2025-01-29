@@ -1,6 +1,6 @@
 name = "Configurable Everything"
 filename = "ConfigurableEverything-1.2-mc1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2OtUT3F2/versions/b2VzCVta/ConfigurableEverything-1.2-mc1.20.1.jar"
