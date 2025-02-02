@@ -157,6 +157,12 @@ file = "config/bluemap/webapp.conf"
 file = "config/bluemap/webserver.conf"
 
 [[files]]
+file = "config/configurable_everything/datafixer.djs"
+
+[[files]]
+file = "config/configurable_everything/main.djs"
+
+[[files]]
 file = "config/enchancement.json"
 
 [[files]]
@@ -223,6 +229,10 @@ metafile = true
 
 [[files]]
 file = "mods/additional-lanterns.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/addonslib.pw.toml"
 metafile = true
 
 [[files]]
@@ -403,6 +413,10 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/configurable-everything.pw.toml"
 metafile = true
 
 [[files]]
@@ -722,11 +736,11 @@ file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/macaws-bridges-oh-the-biomes-youll-go.pw.toml"
+file = "mods/macaws-bridges.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/macaws-bridges.pw.toml"
+file = "mods/macaws-byg-bwg.pw.toml"
 metafile = true
 
 [[files]]
@@ -738,15 +752,7 @@ file = "mods/macaws-fences-and-walls.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/macaws-fences-oh-the-biomes-youll-go.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/macaws-furniture.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/macaws-furnitures-oh-the-biomes-youll-go.pw.toml"
 metafile = true
 
 [[files]]
@@ -763,10 +769,6 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/macaws-roofs-oh-the-biomes-youll-go.pw.toml"
 metafile = true
 
 [[files]]
