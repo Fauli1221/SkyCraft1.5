@@ -1,0 +1,13 @@
+name = "AddonsLib"
+filename = "addonslib-fabric-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cl5ec0Qm/versions/J2diTm0O/addonslib-fabric-1.20.1-1.1.jar"
+hash-format = "sha512"
+hash = "46c91b423f5179b7e6ba256dd1d152cba41630a16735524ac20506f70bb4083c4465b91e3a581525ba1c9b20034fccd8d56fc85fa1db1e2a336eb81b2e7b890d"
+
+[update]
+[update.modrinth]
+mod-id = "cl5ec0Qm"
+version = "J2diTm0O"
