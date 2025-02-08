@@ -736,6 +736,10 @@ file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/macaws-biomes-o-plenty.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 metafile = true
 
