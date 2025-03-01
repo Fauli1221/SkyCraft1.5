@@ -1,13 +1,13 @@
 name = "Macaw's Biomes O' Plenty"
-filename = "mcwbiomesoplenty-fabric-1.20.1-1.0.jar"
+filename = "mcwbiomesoplenty-fabric-1.20.1-1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Tanquv9C/versions/dgwlGvfe/mcwbiomesoplenty-fabric-1.20.1-1.0.jar"
+url = "https://cdn.modrinth.com/data/Tanquv9C/versions/80DAv7Dd/mcwbiomesoplenty-fabric-1.20.1-1.1.jar"
 hash-format = "sha512"
-hash = "1c0d48844d2f28e3d096bd9c1ec3f671ed17f6db7056798513cd472210e76b26edef0d8b6868f9410b3674538cd9f6ff15a289232952e0a2335465198bac071b"
+hash = "6f1571907f63dadb5b6150ada30b5fe0cd62d252f55b1d92c97cc42ed930a6e23f0532d3343fa065fd06c3069d3fbc74cfe09e21ee1cf976c8ef59919dd81b78"
 
 [update]
 [update.modrinth]
 mod-id = "Tanquv9C"
-version = "dgwlGvfe"
+version = "80DAv7Dd"
