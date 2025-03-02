@@ -1,13 +1,13 @@
 name = "Oh The Biomes We've Gone"
-filename = "Oh-The-Biomes-Weve-Gone-Fabric-1.5.4.jar"
+filename = "Oh-The-Biomes-Weve-Gone-Fabric-1.5.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NTi7d3Xc/versions/tyDdueC7/Oh-The-Biomes-Weve-Gone-Fabric-1.5.4.jar"
+url = "https://cdn.modrinth.com/data/NTi7d3Xc/versions/NYQj3oJn/Oh-The-Biomes-Weve-Gone-Fabric-1.5.7.jar"
 hash-format = "sha512"
-hash = "7d0995abf39e73bc86ccf3a773c2b9e0955a2947a679c32843055a69d246e63e7163787724d1be84ad63063b102b0070b2886fda732214f7c109f915b55527e1"
+hash = "2c90541b3b40fba18cc7ab01d72306ab2d3bee79f66768af0a09d98b322d0ed0e31591ff22fa07bfad1b77484fe651b6dc3d0dc089b04ee74f0c91677fbcd5b8"
 
 [update]
 [update.modrinth]
 mod-id = "NTi7d3Xc"
-version = "tyDdueC7"
+version = "NYQj3oJn"

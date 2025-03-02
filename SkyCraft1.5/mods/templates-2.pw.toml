@@ -1,13 +1,13 @@
 name = "Templates 2"
-filename = "templates-2.1.1+1.20.1.jar"
+filename = "templates-mod-2.2.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cL15qXuP/versions/MfkaTSSm/templates-2.1.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/cL15qXuP/versions/WterotfO/templates-mod-2.2.0%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "4051d618fc26cb7052cb4936cf22026799b15b496a147ab121d699000af55dfd0263ed16810781559570bff89b511355695f8736c9627d55147a017170dfa3fd"
+hash = "0f9a0a3cd6b866beb4051c2b784d1d22b2763130ca2508b6b3347b5420007b348b12c3a3da28083c9b78d33867609e5c201f8f670beb5cf1be3ca1b0213e7e32"
 
 [update]
 [update.modrinth]
 mod-id = "cL15qXuP"
-version = "MfkaTSSm"
+version = "WterotfO"
