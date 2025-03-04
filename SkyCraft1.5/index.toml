@@ -684,6 +684,10 @@ file = "mods/inventory-profiles-next.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 metafile = true
 
