@@ -492,6 +492,10 @@ file = "mods/critters-and-companions.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cryonicconfig.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dataloader.pw.toml"
 metafile = true
 
