@@ -268,10 +268,6 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/argonauts.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/arsenal.pw.toml"
 metafile = true
 
