@@ -1,13 +1,13 @@
 name = "Modern Decorations Mod"
-filename = "mdm-2.1.34-fabric-1.20.1.jar"
+filename = "mdm-2.1.45-fabric-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TmUXSYKk/versions/jShtizbO/mdm-2.1.34-fabric-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/TmUXSYKk/versions/xjMG5Boy/mdm-2.1.45-fabric-1.20.1.jar"
 hash-format = "sha512"
-hash = "447d8a18355b565de88f83377e0770dd8c561c1761698b47ada31c1a42a9d6f9a986fd272b3ba17cfcfbe5441a13bc6f6297d70c1f480cbec04fe1d4e887ddb5"
+hash = "1490c2c16cccfda0d0e1e50201bbf20ed06e717ea2dbab20d1d94ce24754faacfdce06849cb6122cd6feaa2034dfa9ced82c022f1739b9a97d5c9acc6566c633"
 
 [update]
 [update.modrinth]
 mod-id = "TmUXSYKk"
-version = "jShtizbO"
+version = "xjMG5Boy"
