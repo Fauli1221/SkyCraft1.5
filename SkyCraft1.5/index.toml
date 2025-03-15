@@ -492,6 +492,10 @@ file = "mods/critters-and-companions.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cryonicconfig.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dataloader.pw.toml"
 metafile = true
 
@@ -509,6 +513,14 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/deermod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dense-flowers.pw.toml"
 metafile = true
 
 [[files]]
@@ -584,6 +596,10 @@ file = "mods/explosive-enhancement.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/extended-cogwheels.pw.toml"
 metafile = true
 
@@ -621,6 +637,10 @@ metafile = true
 
 [[files]]
 file = "mods/fish-of-thieves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
 metafile = true
 
 [[files]]
