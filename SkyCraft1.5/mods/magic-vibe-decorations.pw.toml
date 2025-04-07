@@ -1,13 +1,13 @@
 name = "Magic Vibe Decorations (Crystals, Halloween additions)"
-filename = "magicvibedecorations-HALLOWEEN 1.7.0 1.20.1 fabric.jar"
+filename = "magic_vibe_decorations-2.6.0-fabric-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MPAgKQOE/versions/NGn6sD5g/magicvibedecorations-HALLOWEEN%201.7.0%201.20.1%20fabric.jar"
+url = "https://cdn.modrinth.com/data/MPAgKQOE/versions/yXiKxAFn/magic_vibe_decorations-2.6.0-fabric-1.20.1.jar"
 hash-format = "sha512"
-hash = "34c37f15c9bd0023a6900e4536b404f8609f84dd3e3db73489b27f7d4998b0cdb9e7057274784bb1bb32a3dea503a4e83ffb251a2205f9425222e2369c932387"
+hash = "d5e3497b733340ba50da8c90a1baa72ca327cb6481810c0df7818d6748fb1bbcff5d91cc1ee01d629dccbc6b8b9c6b596f0c30d8bb1d2f6bd7c295c3469b45b3"
 
 [update]
 [update.modrinth]
 mod-id = "MPAgKQOE"
-version = "NGn6sD5g"
+version = "yXiKxAFn"
