@@ -1036,10 +1036,6 @@ file = "mods/smooth-skies.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 metafile = true
 
